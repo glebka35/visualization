@@ -6,4 +6,4 @@
 
 ## Домашнее задание №3:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/glebka35/visualization/blob/main/hw3/Label_Placement.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/glebka35/visualization/blob/main/hw3/Label_placement.ipynb)
